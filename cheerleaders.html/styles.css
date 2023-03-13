@@ -1,0 +1,211 @@
+body{
+background-image:url("https://i.pinimg.com/564x/83/bb/6c/83bb6c34b83ba2901bd462993b331cf6.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
+color: black;
+}
+
+
+a:link{
+	color:black;
+}
+
+a:visited{
+	color:black;
+}
+a:hover{
+	color:black;
+	font-size: 17
+}
+
+/* use this to put borders around things... */
+.thin_border{
+	border: 1px solid black;
+}
+
+.direc{
+
+	color:black;
+	 background-color:;
+	 margin-right: ;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 130px;
+	 outline: 0px solid black;
+}
+
+
+
+
+
+
+.direc1{
+
+	color:black;
+	 background-color:#4974a5;
+	 margin-right: auto;
+	 margin-left: auto;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 130px;
+	 outline: 3px solid black;
+}
+.direc2{
+
+	color:black;
+	 background-color:#4974a5;
+	 margin-right: auto;
+	 margin-left: auto;
+	 padding: 15px 15px 15px 15px;
+	 height: 160px;
+	 width: 110px;
+	 outline: 4px solid black;
+}
+.direc3{
+	color:black;
+	 background-color:#4974a5;
+	 margin-right: auto;
+	 margin-left: auto;
+	 padding: 15px 15px 15px 15px;
+	 height: 160px;
+	 width: 110px;
+	 outline: 4px solid black;
+}
+.direc4{
+	color:black;
+	 background-color:#4974a5;
+	 margin-right: auto;
+	 margin-left: auto;
+	 padding: 15px 15px 15px 15px;
+	 height: 160px;
+	 width: 110px;
+	 outline: 4px solid black;
+}
+.direc5{
+	color:black;
+	 background-color:#4974a5;
+	 margin-right: auto;
+	 margin-left: auto;
+	 padding: 15px 15px 15px 15px;
+	 height: 160px;
+	 width: 110px;
+	 outline: 4px solid black;
+}
+.margin{
+
+	 background-color:#4974a5;
+	 margin-right: auto;
+	 margin-left: auto;
+	 padding: 15px 15px 25px 15px;
+	 height: 280px;
+	 width: 210px;
+	 outline: 3px solid black;
+}
+
+
+.class1{
+
+	color: black;
+}
+
+.border{
+background:##4974a5;
+border-style: solid;
+border-color: black;
+border-radius: 3px; 
+border-width: 5px;
+padding: 5px 10px 5px 5px;
+}
+
+
+.textcolor{
+
+	color:black;
+}
+
+.textotamxg{
+
+	font-size: 15;
+	color:black;
+}
+
+.textotamg{
+
+	font-size: 17;
+	color:black;
+}
+
+
+
+#som {
+
+	background-color:#D8CDD2;
+	margin: 5px 5px 5px 5px;
+	 padding: 5px 5px 5px 5px;
+	 height: 50px;
+	 width: 500px;
+}
+
+ul {
+
+
+	 
+}
+
+.cuadroh{
+
+}
+
+
+.wikicopia{
+
+}
+
+#som2 {
+
+	
+}
+
+#textcontac{
+font-size: 27;
+color: black;
+
+}
+.sincolor{
+
+
+}
+
+.incoloro1{
+	border-color: black;
+margin: 40px 40px 40px 150px;
+	 padding: 15px 15px 25px 15px;
+	 height: 900px;
+	 width: 710px;
+	
+}
+
+.incoloro2{
+margin: -940px 40px 40px 700px;
+	 padding: 15px 15px 25px 15px;
+	  height: 900px;
+	 width: 710px;
+
+}
+
+.container{
+
+
+}
+.nohay{
+	margin: 20px 20px 20px 80px;
+}
+
+
+
+.Form{
+
+	
+</body>
